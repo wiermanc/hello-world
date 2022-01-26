@@ -1,4 +1,6 @@
 # hello-world
 just trying this
 
-I am trying to understand github, hopefully this does what I think it will
+
+just following the tutorial here, still a little confused but hopefully I can get it figured out
+
